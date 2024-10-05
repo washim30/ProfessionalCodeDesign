@@ -1,0 +1,39 @@
+h1{
+    color: blue;
+    background-color: green;
+}
+body{
+    background-color: white;
+    
+}
+.p1{
+    color: white;
+    border-width: 5px;
+    border-style: dotted;
+    border-radius: 20px;
+}
+#p2{
+    color: red;
+    border-style:double;
+    
+}
+.NMR{
+    width: 500px;
+    height: 400px;
+    background-color: red;
+    margin: auto;
+    border: 5px solid black;
+
+}
+#p4{
+padding-top: 30px;
+padding-left: 30px;
+}
+#ds{
+    margin: 30px;
+    border: 10px solid red;
+    outline-width: 5px;
+    outline-color: green;
+    outline-style: dashed;
+     outline-offset: 10px;
+}

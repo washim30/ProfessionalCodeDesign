@@ -1,0 +1,19 @@
+body{
+    background-color:blueviolet;
+}
+.box{
+   height: 200px;
+   width: 200px; 
+   position: relative;
+   animation-name: myanimation;
+   animation-duration: 8s;
+}
+@keyframes myanimation {
+    0%{background-color: white;}
+    25%{background-color: red;}
+    50%{background-color: blue;}
+    75%{background-color: green;}
+    100%{background-color:aqua;}
+
+    
+}
